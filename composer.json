@@ -1,0 +1,9 @@
+{
+  "name": "bpfaas/bpfaas",
+  "description": "bpfaas php SDK",
+  "type": "library",
+  "authors": [{
+    "name": "brian",
+    "email": "bpoint.lee@live.com"
+  }]
+}
