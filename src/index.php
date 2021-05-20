@@ -1,6 +1,6 @@
 <?php
 
-namespace bpfaas;
+namespace maxbuild;
 
 class Hello
 {

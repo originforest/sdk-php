@@ -1,6 +1,6 @@
 {
-  "name": "bpfaas/bpfaas",
-  "description": "bpfaas php SDK",
+  "name": "maxbuild/maxbuild",
+  "description": "MAXBUILD php SDK",
   "type": "library",
   "authors": [{
     "name": "brian",
